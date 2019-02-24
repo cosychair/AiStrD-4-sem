@@ -1,0 +1,44 @@
+﻿  lab1Main.cpp
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::north" через превосходство
+  d:\lab1\lab1\shape.h(138): note:  см. объявление "rectangle::north"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::south" через превосходство
+  d:\lab1\lab1\shape.h(139): note:  см. объявление "rectangle::south"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::east" через превосходство
+  d:\lab1\lab1\shape.h(140): note:  см. объявление "rectangle::east"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::west" через превосходство
+  d:\lab1\lab1\shape.h(141): note:  см. объявление "rectangle::west"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::neast" через превосходство
+  d:\lab1\lab1\shape.h(142): note:  см. объявление "rectangle::neast"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::seast" через превосходство
+  d:\lab1\lab1\shape.h(143): note:  см. объявление "rectangle::seast"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::nwest" через превосходство
+  d:\lab1\lab1\shape.h(144): note:  см. объявление "rectangle::nwest"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::swest" через превосходство
+  d:\lab1\lab1\shape.h(145): note:  см. объявление "rectangle::swest"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::move" через превосходство
+  d:\lab1\lab1\shape.h(156): note:  см. объявление "rectangle::move"
+d:\lab1\lab1\lab1main.cpp(12): warning C4250: h_circle: наследуется "rectangle::rectangle::resize" через превосходство
+  d:\lab1\lab1\shape.h(160): note:  см. объявление "rectangle::resize"
+d:\lab1\lab1\lab1main.cpp(24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\lab1\lab1\lab1main.cpp(25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::north" через превосходство
+  d:\lab1\lab1\shape.h(138): note:  см. объявление "rectangle::north"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::south" через превосходство
+  d:\lab1\lab1\shape.h(139): note:  см. объявление "rectangle::south"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::east" через превосходство
+  d:\lab1\lab1\shape.h(140): note:  см. объявление "rectangle::east"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::west" через превосходство
+  d:\lab1\lab1\shape.h(141): note:  см. объявление "rectangle::west"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::neast" через превосходство
+  d:\lab1\lab1\shape.h(142): note:  см. объявление "rectangle::neast"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::seast" через превосходство
+  d:\lab1\lab1\shape.h(143): note:  см. объявление "rectangle::seast"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::nwest" через превосходство
+  d:\lab1\lab1\shape.h(144): note:  см. объявление "rectangle::nwest"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::swest" через превосходство
+  d:\lab1\lab1\shape.h(145): note:  см. объявление "rectangle::swest"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::move" через превосходство
+  d:\lab1\lab1\shape.h(156): note:  см. объявление "rectangle::move"
+d:\lab1\lab1\lab1main.cpp(73): warning C4250: RightTriangle: наследуется "rectangle::rectangle::resize" через превосходство
+  d:\lab1\lab1\shape.h(160): note:  см. объявление "rectangle::resize"
+  lab1.vcxproj -> D:\lab1\Debug\lab1.exe
